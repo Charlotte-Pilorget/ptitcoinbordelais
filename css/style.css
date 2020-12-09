@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Lora:wght@400;500&family=Roboto:wght@400;500;700&display=swap");
+@import url("components/container.css");
+@import url("components/logo.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+body{
+	background: #FEFFEF;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 18px;
+	margin: 0px;
+	text-align: center;
+}
+h1, h2, h3{
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	text-align: center;
+	font-size: 40px;
+}
+a{
+text-decoration: none;	
+}
